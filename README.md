@@ -7,7 +7,7 @@ SELEÇÃO DE PROFISSIONAIS PARA 1 VAGA NA ÁREA DE DESENVOLVIMENTO em PHP
 
 1 vaga para programador júnior;
 
-Salário: Conforme convencão coletiva SEACEC, R$ 2.548,23 atualmente.
+Salário: Conforme convencão coletiva SEACEC.
 
 Benefícios: Vale alimentação
 
