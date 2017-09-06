@@ -19,7 +19,7 @@ Carga horária: 40 horas semanais
 * Inglês (leitura)
 * Git
 * Graduação em andamento em Computação ou áreas afins
-* Experiência com frameworks MVC, principalmente Zend Framework. Outros frameworks como Laravel, Synfony, Cake etc, podem ser interessantes.
+* Experiência com frameworks MVC, principalmente Zend Framework e/ou Laravel. Outros frameworks como Synfony, Cake, Yii etc, podem ser interessantes.
 * Familiaridade com sistema operacional Linux.
 
 # Requisitos Desejáveis
@@ -27,6 +27,8 @@ Carga horária: 40 horas semanais
 * Bons conhecimentos em orientação a objetos e padrões de projeto.
 * HTML5 com bons conhecimentos de Javascript, no uso de jQuery e ter curiosidade sobre as novidades do mercado de front-end: React.js, Vue, Babel, Angular, TypeScript, etc.
 * Conhecimentos em bancos de dados relacionais, principalmente Postgres.
+* Experiência com Docker
+* Experiência com testes 
 * Alguma experiência com desenvolvimento de apps mobile, em qualquer plataforma.
 
 # Instruções
