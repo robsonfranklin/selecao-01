@@ -1,4 +1,4 @@
-Funceme - Seleção Programador Júnior - Enviar currículo até 25/09/2017
+Funceme - Seleção Programador Júnior - Enviar currículo até 18/09/2017 às 8:00
 ============
 
 A Fundação Cearense de Meteorologia e Recursos Hidricos do Ceará (FUNCEME) realiza desenvolvimento de software em diversos segmentos (web, desktop e mobile) a partir de informações de imagens de satélites, dados de estações meteorológicas e hidrológicas, dados de monitoramento de nível de reservatórios e poços.
