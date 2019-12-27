@@ -32,5 +32,5 @@ Carga horária: 40 horas semanais
 
 # Instruções
 
-Desenvolva uma aplicação (simples) de agendamento de reuniões, como as exemplificadas neste site: https://blog.hubspot.com/marketing/meeting-scheduler-tools-more-productive. Fique a vontade para utilizar qualquer lib ou framework, porém os citados nos requisitos serão mais valorizados. Publique este projeto no github e nos passe o endereço do repositório nos emails: thiagozaranza@gmail.com e robson@funceme.br.
+Desenvolva uma aplicação (simples) de agendamento de reuniões, como as exemplificadas neste site: https://blog.hubspot.com/marketing/meeting-scheduler-tools-more-productive. Fique a vontade para utilizar qualquer lib ou framework, porém os citados nos requisitos serão mais valorizados. Publique este projeto no github e nos passe o endereço do repositório nos emails: thiagozaranza@gmail.com e robsonfranklin@gmail.com.
 
